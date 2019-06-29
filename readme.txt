@@ -23,3 +23,7 @@ I wrote this program to demonstrate the following:
 - I export 10 most lucky spins for every iteration. It can be observed that these 10 spins almost always keep changing.
     Thus proving that there's no winning strategy to this game.
 - I print out the amount of money the casino gains at the end of all iterations. This is "YOUR" money.
+
+
+To run your own simulation, you can run the file gamble_trainer.py.
+Your results will be printed on the console and top 10 lucky spins will be exported to top_ten_lucky_spins.json
