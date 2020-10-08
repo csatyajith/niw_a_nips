@@ -1,4 +1,4 @@
-from spin_a_win import SpinAWin
+from misc_gamble.spin_a_win import SpinAWin
 import json
 import itertools
 
